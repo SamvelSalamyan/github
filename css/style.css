@@ -1,0 +1,21 @@
+.uploadForm {
+    width: 500px;
+    padding: 30px;
+    box-shadow: 0 0 10px 0 #000;
+    border-radius: 10px;
+}
+
+.app {
+    color: red;
+}
+
+.card img {
+    width: 284px;
+    height: 294px;
+}
+
+a {
+    color: wheat;
+    text-decoration: none;
+    background-color: transparent;
+}
